@@ -142,14 +142,14 @@ Social_Project/
 
 ## 9. 기술 스택
 
-- Python
-- Pandas
-- GeoPandas
-- Matplotlib
-- Seaborn
-- Folium
-- SciPy
-- Jupyter Notebook
+- Python: 데이터 분석 및 전체 분석 흐름 구현
+- Pandas: CSV 데이터 로드, 전처리, 자치구별 집계
+- GeoPandas: 공간 데이터 처리 및 자치구 경계 데이터 활용
+- Matplotlib: 기본 그래프 시각화
+- Seaborn: 통계 그래프 및 상관관계 히트맵 시각화
+- Folium: 서울시 자치구 지도 시각화
+- SciPy: Pearson, Spearman 상관분석
+- Jupyter Notebook: 분석 과정 정리 및 실행
 
 ## 10. 핵심 요약
 
